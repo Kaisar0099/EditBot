@@ -1,6 +1,6 @@
 {
-    "secret": "",
-    "tgId": "",
-    "initData": "",
+    "secret": "3634bfd8b75bd05ff95a30a5fb92d603fc9c160565f26f27b7867d2986ae60c6",
+    "tgId": "6951424878",
+    "initData": "query_id=AAFuU1YeAwAAAG5TVh6rOOpX&user=%7B%22id%22%3A6951424878%2C%22first_name%22%3A%22Bob%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ersadencow%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718711637&hash=0df0e3a5a98234736a36e0a83bc6e53f8eb34846a4c47578539ca3d44854b7aa",
     "hitRate": 0.09
 }
